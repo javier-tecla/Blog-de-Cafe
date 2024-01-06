@@ -1,3 +1,3 @@
 Tercer-Proyecto-Curso-Desarrollo-Web
 
-https://blogdecafejaviertecla.netlify.app/index.html
+https://blog-de-cafe-javier-tecla.netlify.app/
